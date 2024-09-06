@@ -1,0 +1,14 @@
+.heroImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 70vh;
+  margin: 10vh 0;
+  background-image: radial-gradient(var(--accent), var(--primary));
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

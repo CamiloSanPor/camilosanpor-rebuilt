@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 10vw;
+  border-top: 1px solid var(--border);
+  margin: 1rem 0;
+}
+
+.contacts {
+  display: flex;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  padding-right: 4rem;
+}
+
+.link:hover {
+  color: var(--accent);
+}
+
+.icon {
+  height: 5vh;
+  padding-right: 1rem;
+}
